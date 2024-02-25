@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://digitalarchivo.github.io/al-folio/sitemap.xml
+Sitemap: https://digitalarchivo.github.io/sitemap.xml
